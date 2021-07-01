@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>CustomSlider.qml</file>
+        <file>Slider.qml</file>
+    </qresource>
+    <qresource prefix="/videos">
+        <file>Bunny.mp4</file>
+        <file>Bunny2.mp4</file>
+    </qresource>
+</RCC>
